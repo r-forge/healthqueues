@@ -126,7 +126,7 @@ If \eqn{Y_1} and \eqn{Y_2} are Poisson variables with means
   Strackee, J.; van der Gon, J. J. D. (1962) The frequency distribution of the difference between two Poisson variates.
    \emph{Statistica Neerlandica} \bold{16}/1, 17-23.
 
-  Wikipedia. \emph{Skellam distribution} \url{http://en.wikipedia.org/wiki/Skellam_distribution}
+  Wikipedia. \emph{Skellam distribution} \url{https://en.wikipedia.org/wiki/Skellam_distribution}
 }
 \examples{
 require('skellam')
